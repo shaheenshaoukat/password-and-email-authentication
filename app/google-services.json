@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "672114352404",
+    "project_id": "password-and-email-auth",
+    "storage_bucket": "password-and-email-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672114352404:android:b628ea716df8ca331be201",
+        "android_client_info": {
+          "package_name": "com.example.password_and_email_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672114352404-0klafi8f194ej59icla3sldg5l4ttfkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI9FatYsHa8bK1OeVPljS8A19kow1wF8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672114352404-0klafi8f194ej59icla3sldg5l4ttfkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
